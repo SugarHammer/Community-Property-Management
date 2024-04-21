@@ -1,11 +1,12 @@
 /** 登录页面样式 */
 
 body {
-    background-image: url("../../assets/images/bg_login2.png");
+    background-image: url("../../assets/images/bg_login2_2.png");
     background-position: center 110px;
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
     background-color: #f0f2f5;
+    background-position-y: top;
 }
 
 .login-wrapper, body, html {
